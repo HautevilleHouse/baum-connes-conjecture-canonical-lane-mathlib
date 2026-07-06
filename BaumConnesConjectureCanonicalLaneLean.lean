@@ -1,0 +1,7 @@
+-- This module is the root of the BaumConnesConjectureCanonicalLaneLean Lean proof package.
+import BaumConnesConjectureCanonicalLaneLean.Basic
+import BaumConnesConjectureCanonicalLaneLean.SourcePackage
+import BaumConnesConjectureCanonicalLaneLean.SourceDependencies
+import BaumConnesConjectureCanonicalLaneLean.Formalization
+import BaumConnesConjectureCanonicalLaneLean.ReviewerBridge
+import BaumConnesConjectureCanonicalLaneLean.TheoremStatement
